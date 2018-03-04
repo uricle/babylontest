@@ -1,0 +1,17 @@
+{
+  "name": "babylontest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "uricle",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "typescript": "^2.7.2"
+  }
+}
